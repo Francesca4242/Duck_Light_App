@@ -7,6 +7,7 @@
     "short_name": "Brian",
     "name": "Always look on the bright side of life",
     "description": "If life seems jolly rotten there's something you've forgotten, and that's to smile and laugh and dance and sing!",
+    "display": "standalone",
     "icons": [
         {
             "src": "icon-192x192.png",
