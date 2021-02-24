@@ -1346,7 +1346,7 @@
     <article class="markdown-body entry-content container-lg" itemprop="text"><p>iPhone or iPad</p>
 <ol>
 <li>Launch “Safari”.</li>
-<li>Go <a href="https://hello1024.github.io/104-Home/fordhook.html" rel="nofollow">here</a>.</li>
+<li>Go <a href="https://Francesca4242.github.io/Duck_Light_App/index.html" rel="nofollow">here</a>.</li>
 <li>Tap the icon featuring a right-pointing arrow coming out of a box along the top of the Safari window to open a drop-down menu.</li>
 <li>Tap 'Add to Home Screen.'</li>
 <li>Click 'Add' and congratulate yourself on a hard days work.</li>
@@ -1354,7 +1354,7 @@
 <p>Android</p>
 <ol>
 <li>On your Android phone or tablet, open the Chrome app.</li>
-<li>Go <a href="https://hello1024.github.io/104-Home/fordhook.html" rel="nofollow">here</a>.</li>
+<li>Go <a href="https://Francesca4242.github.io/Duck_Light_App/index.html" rel="nofollow">here</a>.</li>
 <li>At the top right, tap the three vertical dots.</li>
 <li>Choose 'Add to Home screen'.</li>
 <li>Click 'Add' and congratulate yourself on a hard days work.</li>
