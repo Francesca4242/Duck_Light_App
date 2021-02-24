@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="light.css">
+		<link rel="manifest" href="manifest.json">
+	</head>
+	<body>
+		<div class="tab">
+			<button class="tablinks" onclick="openCity(event, 'Wheel')">Wheel</button>
+			<button class="tablinks" onclick="openCity(event, 'Mode')">Mode</button>
+		</div>
+		<div id=Wheel class="tabcontent">
+			<h1>Show a Color Picker</h1>
+			<form action="/action_page.php">
+				<label for="favcolor">Select your favorite color:</label>
+				<input type="color" id="favcolor" name="favcolor" value="#ff0000"><br><br>
+				<input type="submit">
+			</form>
+		</div>
+		<div id=Mode class="tabcontent">
+			<button>Unicorn Vomit</button>
+			<button>Trickly Rainbow</button>
+			<button>Shhhhhhhhhhhhhhh!!!!</button>
+			<button>White vs. White</button>
+			<button>Soothing Wave</button>
+			<button>Spicy!</button>
+		</div>
+		<script>
+			function openCity(evt, cityName) {
+			  var i, tabcontent, tablinks;
+			  tabcontent = document.getElementsByClassName("tabcontent");
+			  for (i = 0; i < tabcontent.length; i++) {
+				tabcontent[i].style.display = "none";
+			  }
+			  tablinks = document.getElementsByClassName("tablinks");
+			  for (i = 0; i < tablinks.length; i++) {
+				tablinks[i].className = tablinks[i].className.replace(" active", "");
+			  }
+			  document.getElementById(cityName).style.display = "block";
+			  evt.currentTarget.className += " active";
+			}
+
+			// Get the element with id="defaultOpen" and click on it
+			document.getElementById("defaultOpen").click();
+		</script>
+   
+	</body>

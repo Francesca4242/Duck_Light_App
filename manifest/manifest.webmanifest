@@ -1,0 +1,32 @@
+{
+    "theme_color": "#f6ed35",
+    "background_color": "#f69435",
+    "display": "browser",
+    "scope": "/Duck_Light_App/",
+    "start_url": "/Duck_Light_App/index.html",
+    "short_name": "Brian",
+    "name": "Always look on the bright side of life",
+    "description": "If life seems jolly rotten there's something you've forgotten, and that's to smile and laugh and dance and sing!",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
